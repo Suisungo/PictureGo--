@@ -4,7 +4,7 @@
 
 PictureGo 面向需要快速整理、转换和导出图片的创作者、设计师与开发者。它将常见图片格式与专业工作流集中在一个清晰的本地应用中：拖入图片，选择目标格式，调整质量，然后完成导出。
 
-![PictureGo App Icon](https://imagetourls.com/zh/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2FM9GBSm0y.png)
+![PictureGo App Icon](https://cdn.imagetourls.com/uploads/tyImg/M9GBSm0y.png)
 
 ## ✨ 特性
 
